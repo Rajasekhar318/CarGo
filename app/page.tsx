@@ -1,5 +1,5 @@
-import  from "../client/src/index"
+// import  from "../client/src/index"
 
-export default function SyntheticV0PageForDeployment() {
-  return < />
-}
+// export default function SyntheticV0PageForDeployment() {
+//   return < />
+// }
